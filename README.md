@@ -51,7 +51,11 @@ While the frontend is simple, the core of this project lies in its **deployment 
 
 ## 📸 Screenshot
 
-*A screenshot of the live website can be added here (optional).*
+<p align="center">
+  <img src="resume-homepage.png" alt="Resume Homepage" width="700"/>
+</p>
+<p align="center"><em>A glimpse of the resume homepage showcasing skills, projects, and contact links. Hosted on AWS EC2 using Apache server with custom DNS integration.</em></p>
+
 
 ---
 
@@ -59,5 +63,5 @@ While the frontend is simple, the core of this project lies in its **deployment 
 
 **Sailesh** – Final-year B.E. Computer Engineering student passionate about cloud deployment, web technologies, and clean design systems.
 
-Check out my other projects on [GitHub](https://github.com/yourusername) and reach out for collaborations!
+Check out my other projects on [GitHub](https://github.com/Sailesh-Bhoite/) and reach out for collaborations!
 
